@@ -88,8 +88,10 @@ on:
 #### Result:
 - File setup CD Github Actions: https://github.com/manhtd98/Viettel-Digital-Talent-2023/blob/main/.github/workflows/docker-image.yml
 - Output của luồng build và push Docker Image lên Docker Hub: 
-![pr](./media/pr.png)
-![img](./media/dockerhub.png)
+![pr](./media/gittag.png)
+![img](./media/gitbuild.png)
+![img](./media/gitdocker.png)
+
 - Output log triển khai hệ thống: https://github.com/manhtd98/Viettel-Digital-Talent-2023/tree/main/Midterm/Tran%20Duc%20Manh/logs
 - File inventory chứa danh sách các hosts triển khai: https://github.com/manhtd98/Viettel-Digital-Talent-2023/blob/main/Midterm/Tran%20Duc%20Manh/inventories/multinode.yml
 
